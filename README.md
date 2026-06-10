@@ -1,4 +1,4 @@
-(Screenshots/ChargeMitra_logo.png)
+!(Screenshots/ChargeMitra_logo.png)
 # ⚡ ChargeMitra
 
 > **Powering India's EV Revolution, One Neighbor at a Time**
