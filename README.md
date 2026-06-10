@@ -1,4 +1,4 @@
-(screenshots/ChargeMitra_logo.png)
+(Screenshots/ChargeMitra_logo.png)
 # ⚡ ChargeMitra
 
 > **Powering India's EV Revolution, One Neighbor at a Time**
@@ -43,29 +43,29 @@ ChargeMitra is a Peer-to-Peer (P2P) Electric Vehicle Charging Platform that conn
 
 ### Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](Screenshots/landing-page.png)
 
 ### Mitra Login Portal
 
-![Mitra Login](screenshots/mitra-login.png)
+![Mitra Login](Screenshots/mitra-login.png)
 
 ### Charger Registration
 
-![Charger Registration](screenshots/charger-registration.png)
+![Charger Registration](Screenshots/charger-registration.png)
 
 ### Charger Discovery Map
 
-![Charger Discovery](screenshots/charger-discovery.png)
+![Charger Discovery](Screenshots/charger-discovery.png)
 
 ### Mitra Dashboard
 
-![Mitra Dashboard](screenshots/mitra-dashboard1.png)
-![Mitra Dashboard](screenshots/mitra-dashboard2.png)
+![Mitra Dashboard](Screenshots/mitra-dashboard1.png)
+![Mitra Dashboard](Screenshots/mitra-dashboard2.png)
 
 ### Mitra Dashboard - Charger Booking Request
 
-![Mitra Dashboard](screenshots/booking-notification.png)
-![Mitra Dashboard](screenshots/booking-rejected.png)
+![Mitra Dashboard](Screenshots/booking-notification.png)
+![Mitra Dashboard](Screenshots/booking-rejected.png)
 ---
 
 ## 🏗️ System Architecture
