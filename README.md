@@ -1,6 +1,4 @@
 ![](Screenshots/ChargeMitra_logo.png)
-# ⚡ ChargeMitra
-
 > **Powering India's EV Revolution, One Neighbor at a Time**
 
 ChargeMitra is a Peer-to-Peer (P2P) Electric Vehicle Charging Platform that connects EV owners with individuals and businesses willing to share their charging infrastructure. The platform enables charging providers ("Mitras") to publish charger availability while allowing EV users to discover, book, and manage charging sessions through a unified digital platform.
